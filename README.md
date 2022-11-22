@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/gokul-s-89120b209">
   <img align="left" alt="Gokul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31uk5jdahsniegc4v7wwieab3nwu">
+<!-- <a href="https://open.spotify.com/user/31uk5jdahsniegc4v7wwieab3nwu">
   <img align="left" alt="Gokul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 
 
 
