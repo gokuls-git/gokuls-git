@@ -4,10 +4,10 @@
   <img align="left" alt="#" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://twitter.com/darksied43?t=gF1ECM2BqfQ5k4F5ZiHVKQ&s=09">
-  <img align="left" alt="Gokul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Gokul | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gokul-s-89120b209">
-  <img align="left" alt="Gokul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Gokul's LinkedIN" width="22px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />
 </a>
 <!-- <a href="https://open.spotify.com/user/31uk5jdahsniegc4v7wwieab3nwu">
   <img align="left" alt="Gokul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
