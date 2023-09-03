@@ -1,7 +1,7 @@
 ###     ｈｅｙ ｔｈｅｒｅ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="#" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://twitter.com/darksied43?t=gF1ECM2BqfQ5k4F5ZiHVKQ&s=09">
   <img align="left" alt="Gokul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
