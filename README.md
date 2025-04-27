@@ -15,7 +15,8 @@
 
 ### 🚀 Elevate Your Digital Experience with Expert UI Development!
 
-I'm [Gokul](https://gokuls-git.github.io/Portfolio-CV/), a **Frontend Developer** with a passion for crafting immersive and high-performance web applications. With expertise in **React.js, Next.js, Three.js, GSAP**, and modern UI frameworks, I create visually stunning and **user-centric digital experiences** that drive engagement and performance.
+I'm [Gokul](https://portfolio-3d-plum-sigma.vercel.app/
+), a **Frontend Developer** with a passion for crafting immersive and high-performance web applications. With expertise in **React.js, Next.js, Three.js, GSAP**, and modern UI frameworks, I create visually stunning and **user-centric digital experiences** that drive engagement and performance.
 
 💡 **Why Work With Me?**
 - **Dynamic & Responsive Interfaces** – Ensuring seamless experiences across all devices.
@@ -25,7 +26,7 @@ I'm [Gokul](https://gokuls-git.github.io/Portfolio-CV/), a **Frontend Developer*
 - **Collaboration & Scalability** – Working closely with designers and backend teams for smooth integration.
 
 📫 **Let's Connect:**
-- 💼 Available for **freelance & collaboration** – [Email Me](mailto:gokul.kumarrs68@gmail.com)  
+- 💼 Available for **freelance & collaboration** – [Email Me](mailto:gokul.kumarrs7@gmail.com)  
 - 💬 Ask me anything, always happy to help!
 
 ---
