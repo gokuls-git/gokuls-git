@@ -1,14 +1,6 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
-<a href="https://twitter.com/darksied43?t=gF1ECM2BqfQ5k4F5ZiHVKQ&s=09">
-  <img align="left" alt="Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gokul-s-89120b209">
-  <img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />
-</a>
+
 
 <br/>
 <br/>
@@ -31,6 +23,7 @@ I'm [Gokul](https://portfolio-3d-plum-sigma.vercel.app/
 
 ---
 
+
 ### 📊 My GitHub Stats  
 <a href="https://github.com/gokuls-git/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gokuls-git&count_private=true&show_icons=true&theme=radical" />
@@ -42,5 +35,13 @@ I'm [Gokul](https://portfolio-3d-plum-sigma.vercel.app/
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokuls-git)](https://git.io/streak-stats)
 
 ---
-
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
+<a href="https://twitter.com/darksied43?t=gF1ECM2BqfQ5k4F5ZiHVKQ&s=09">
+  <img align="left" alt="Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gokul-s-89120b209">
+  <img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />
+</a>
 ☕ Like my work? [Buy me a coffee](https://www.buymeacoffee.com/gokulsgit)!
