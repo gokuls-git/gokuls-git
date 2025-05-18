@@ -1,10 +1,6 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-
-<br/>
-<br/>
-
 ### 🚀 Elevate Your Digital Experience with Expert UI Development!
 
 I'm [Gokul](https://portfolio-3d-plum-sigma.vercel.app/
